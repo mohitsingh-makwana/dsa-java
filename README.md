@@ -20,7 +20,8 @@ My Data Structures and Algorithms practice in Java. I solve problems from LeetCo
 | # | Problem | Topic | Difficulty | Solution |
 |---|---------|-------|------------|----------|
 | 1 | Two Sum | Arrays/Hashing | Easy | [Java](DSA-JAVA/Arrays/1.TwoPointers//TwoSum.java) |
-| 1 | Remove Duplicates from Sorted Array | Arrays/Two Pointers | Easy | [Java](DSA-JAVA/Arrays/1.TwoPointers//RemoveDuplicatesFromSortedArray.java) |
+| 2 | Remove Duplicates from Sorted Array | Arrays/Two Pointers | Easy | [Java](DSA-JAVA/Arrays/1.TwoPointers/RemoveDuplicatesFromSortedArray.java) |
+| 3 | Remove Element | Arrays/Two Pointers | Easy | [Java](DSA-JAVA/Arrays/1.TwoPointers/RemoveElement.java) |
 
 ## How to run
 Each file has a `main` method. Run it in any IDE, or from the terminal:
