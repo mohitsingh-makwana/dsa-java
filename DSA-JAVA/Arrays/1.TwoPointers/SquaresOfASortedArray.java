@@ -17,8 +17,14 @@ public class SquaresOfASortedArray {
         for(int i=ans.length-1;i>=0;i--){
             int n1=nums[l]*nums[l];
             int n2=nums[r]*nums[r];
-            if(n1<n2)ans[i]=n2;
-            else nums[i]=n1;
+            if(n1<n2){
+                ans[i]=n2;
+                r--;
+            }
+            else {
+                nums[i]=n1;
+                l++;
+            }
         }
         return ans;
     }
