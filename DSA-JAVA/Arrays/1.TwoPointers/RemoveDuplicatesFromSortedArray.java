@@ -6,7 +6,7 @@
  * Difficulty: Easy
  *
  * Time: O(n)
- * Space: O(n)
+ * Space: O(1)
  */
 public class RemoveDuplicatesFromSortedArray {
 
